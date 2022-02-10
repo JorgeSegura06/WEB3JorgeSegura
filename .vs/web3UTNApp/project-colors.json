@@ -5,7 +5,17 @@
       "ProjectGuid": "c47a8eb1-52da-47ce-adff-27994a99a53b",
       "DisplayName": "CapaPresentacion",
       "ColorIndex": 0
+    },
+    "61f66968-ae99-4314-ac08-92e5da0b346d": {
+      "ProjectGuid": "61f66968-ae99-4314-ac08-92e5da0b346d",
+      "DisplayName": "CapaNegocio",
+      "ColorIndex": 1
+    },
+    "39fdfbbe-8167-4012-ba0f-4dabc51311fa": {
+      "ProjectGuid": "39fdfbbe-8167-4012-ba0f-4dabc51311fa",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
